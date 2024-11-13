@@ -11,7 +11,6 @@ Welcome to the **URL Shortener** project! This Python script leverages the Cutt.
 - [How to Use](#how-to-use)
 - [API Status Codes](#api-status-codes)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## ✨ Features
 
